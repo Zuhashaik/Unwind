@@ -1,7 +1,7 @@
 import openai
 
 #  respective api key
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 # Define the model you want to use...
 #<curie with data2: curie:ft-personal-2023-03-16-17-46-04>
