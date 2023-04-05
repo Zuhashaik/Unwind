@@ -1,6 +1,6 @@
 import openai
 # sample question : my wife died last year i cannot get through that
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 # Define the model you want to use------------this model is generated using data3 and finetuned with text-davinci-002
 model_engine = "davinci:ft-personal-2023-03-19-20-39-50"
